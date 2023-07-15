@@ -1,0 +1,21 @@
+.left{
+    position: relative;
+    background-color: #B1D9DB;
+    width: 80%;
+    height: 100vh;
+}
+
+.left p{
+    padding: 40px;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.left .image img{
+    position: absolute;
+    width: 85%;
+    transform: rotate(7.15deg);
+    z-index: 2000;
+    top:150.62px;
+    left: 150px;
+}
